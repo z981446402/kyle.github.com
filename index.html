@@ -7,5 +7,5 @@
 <p>最新文章</p>
 
 {% for post in site.posts %}
-<a href="{{post.url}}"><li>{{ post.date | date: "%b %-d, %Y" }} {{ post.title }}</li></a>
+"{{ post.date | date: "%b %-d, %Y" }}"<a href="{{site.baseurl}}{{post.url}}"><li> {{ post.title }}</li></a>
 {% endfor %}
