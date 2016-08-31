@@ -7,5 +7,5 @@
 <p>最新文章</p>
 
 {% for post in site.posts %}
-{{ post.date | date: "%b %-d, %Y" }} {{ post.title }}
+<li>{{ post.date | date: "%b %-d, %Y" }} {{ post.title }}</li>
 {% endfor %}
