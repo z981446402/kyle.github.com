@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: About Me
+id: id_about_me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![我就是我](http://7xlgu7.com1.z0.glb.clouddn.com/me.jpg)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+我的格言
+===
+> 坚持自己的信仰，坚信每一个人都有蜕变的哪一刻。
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+自我介绍
+===
+90后刚入道的程序员一枚，热爱WEB前端，喜欢旅游和运动。梦想着能慢慢成长为一个小有成就的前端工程师。付出自己的努力，坚信梦想不只是梦。
+
+教育经历
+===
+攀枝花学院(Panzhihua University)  2011~2015
+
+联系方式
+===
+
+- 新浪微博:[Guovz](http://www.weibo.com/guovz/)
+- github:[Guovz](https://github.com/guovz)
+- Email:[pzhuwjl@qq.com](pzhuwjl@qq.com)
