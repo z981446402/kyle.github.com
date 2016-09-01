@@ -1,17 +1,17 @@
 #version
 version: "1.0"
 
-permalink: /:year/:month/:day/:title/
+
 
 # 站点设置
 title: "Kyle blog"
 email: 981446402@qq.com
 description: "Kyle 的个人博客"
-keywords: "Guovz"
+keywords: "Kyle"
 
 # 用户信息设置
-weibo_username: Guovz
-github_username: guovz
+weibo_username: Kyle
+github_username: Kyle
 
 # Markdown设置
 kramdown:
