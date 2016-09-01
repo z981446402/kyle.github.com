@@ -5,11 +5,24 @@
 
 {{ page.title }}
 <p>最新文章</p>
+{% for category in site.categories %}
+	<h2>{{category | first}}</h2>
+	<span>{{category | last | size}}</span>
+	<ul>
+		{% for post in category.last %}
+			<li>
+			{{post.date : date:"%d/%m/%Y"}}<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+			</li>
+		{% endfor %}
+	</ul>
+{% endfor %}
 
 {% for post in site.posts %}
+	{% if post.published %}
 	<li>
 		"{{ post.date | date: "%b %-d, %Y" }}"
 		<a href="{{site.baseurl}}{{post.url}}"> {{ post.title }}</a>
 		<p>{{post.excerpt}}</p>
 	</li>
+	{% endif %}
 {% endfor %}
