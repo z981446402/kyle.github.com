@@ -16,5 +16,5 @@ permalink: /about/
 ===
 
 
-- github:[Kyle](https://github.com/z981446402)
-- Email:[981446402@qq.com](981446402@qq.com)
+- github:[Kyle](https://github.com/z981446402){:target="_blank"}
+- Email:[981446402@qq.com](981446402@qq.com){:target="_blank"}
