@@ -1,5 +1,6 @@
 ---
 
+layout: post
 title: 'Android DataBinding使用（一）'
 author: Kyle
 published: true
