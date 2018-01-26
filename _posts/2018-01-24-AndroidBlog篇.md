@@ -64,7 +64,7 @@ author: Kyle
 ### [JSR 340: Java Servlet 3.1 Specification《Java Servlet 3.1 规范》](https://waylau.gitbooks.io/servlet-3-1-specification/)
 ### [Android微信自动回复功能](http://www.apkbus.com/home.php?mod=space&uid=705730&do=blog&id=62605)
 ### [Android Studio 小技巧/快捷键 合集](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
-### [ 使用 gradle 在编译时动态设置 Android resValue / BuildConfig / Manifes中<meta-data>变量的值](http://blog.csdn.net/xx326664162/article/details/49247815)
+### [使用 gradle 在编译时动态设置Manifes中<meta-data>变量的值](http://blog.csdn.net/xx326664162/article/details/49247815)
 ### [Git 常用命令详解（二）](http://www.oschina.net/question/565065_86025)
 ### [最新最全的 Android 开源项目合集](https://juejin.im/entry/5908235861ff4b0066dc924a)
 ### [Android 开发中不得不知道的 Tips 集合 (持续更新 ing)](https://juejin.im/post/591847b68d6d8100587929dd)
