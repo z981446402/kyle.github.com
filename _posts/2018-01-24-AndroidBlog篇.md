@@ -4,14 +4,68 @@ title: "AndroidBlog篇"
 categories: [其它]
 author: Kyle
 ---
-
-### [启舰](http://blog.csdn.net/harvic880925/) ###
-### [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/) ###
-### [stormzhang](http://stormzhang.com/) ###
-### [郭霖的专栏](http://blog.csdn.net/guolin_blog) ###
-### [Hencoder](http://hencoder.com/) ###
-### [http://www.wanandroid.com/](http://www.wanandroid.com/) ###
-### [大精-wing的地方酒馆](http://androidwing.net/) ###
-### [MrFu Blog](https://mrfu.me/) ###
-### [码农明明桑](https://isming.me/archives/) ###
-### [Hankkin的博客](http://hankkin.cn/) ###
+#Blog
+### [启舰](http://blog.csdn.net/harvic880925/ "自定义view") 
+### [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/ "自定义view") 
+### [stormzhang](http://stormzhang.com/) 
+### [郭霖的专栏](http://blog.csdn.net/guolin_blog) 
+### [Hencoder](http://hencoder.com/) 
+### [http://www.wanandroid.com/](http://www.wanandroid.com/) 
+### [大精-wing的地方酒馆](http://androidwing.net/) 
+### [MrFu Blog](https://mrfu.me/ "Glide详解") 
+### [码农明明桑](https://isming.me/archives/) 
+### [Hankkin的博客](http://hankkin.cn/) 
+### [技术小黑屋](https://droidyue.com/)
+### [AndroidDevTools](http://www.androiddevtools.cn/)
+### [Trinea](http://www.trinea.cn/)
+### [Werb's Blog](http://werb.github.io/)
+### [codeKK](http://a.codekk.com/)
+### [区长的专栏](http://blog.csdn.net/sbsujjbcy)
+### [腾讯Bugly开发者社区](http://dev.qq.com/)
+### [Android Blog 周刊](http://www.androidblog.cn/index.php/Index/index/p/1)
+---
+#文章
+### [Gradle插件用户指南](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide(Translation)/#1)
+### [OKHttp源码解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0326/2643.html)
+### [Google推荐的图片加载库Glide介绍](http://blog.csdn.net/theone10211024/article/details/45557859)
+### [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
+### [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+### [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
+### [ RxJava+Retrofit+OkHttp深入浅出-终极封装二（网络请求）](http://blog.csdn.net/wzgiceman/article/details/51939574)
+### [ZXing条码扫描-竖屏解决方案](http://www.open-open.com/lib/view/open1437533499553.html)
+### [kotlin语法](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
+### [android开源图表库MPAndroidChart文档翻译（上）](http://blog.csdn.net/robertcpp/article/details/51618495)
+### [MPAndroidChart的具体属性方法](http://blog.csdn.net/u010897392/article/details/50844571)
+### [Android图片加载神器之Fresco-加载图片基础[详细图解Fresco的使用]](http://blog.csdn.net/y1scp/article/details/49245535)
+### [Fresco官方文档](https://www.fresco-cn.org/docs/index.html)
+### [在线Android动画插值器效果预览](http://inloop.github.io/interpolator/)
+### [一种成功的xml资源命名规范](https://www.jianshu.com/p/e3c7fa7d837b)
+### [Java面试题集](http://blog.csdn.net/dd864140130/article/details/55833087)
+### [百度API Store](http://apistore.baidu.com/)
+### [Markdown 语法说明 (简体中文版)](https://www.appinn.com/markdown/#hr)
+### [CODELF](http://unbug.github.io/codelf/ "中译英")
+### [METHODS COUNT](http://www.methodscount.com/ )
+### [Android使用Palette获取图片主色调](http://blog.csdn.net/yxw_android/article/details/51768414)
+### [Android开发中，那些让你相见恨晚的方法、类或接口](http://liukun.engineer/2016/04/11/Android%E5%BC%80%E5%8F%91%E4%B8%AD%EF%BC%8C%E9%82%A3%E4%BA%9B%E8%AE%A9%E4%BD%A0%E7%9B%B8%E8%A7%81%E6%81%A8%E6%99%9A%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%B1%BB%E6%88%96%E6%8E%A5%E5%8F%A3/)
+### [花了 4 个月整理了 50 篇 Android 干货文章](https://juejin.im/post/5940e0f6128fe1006a0d6cd9)
+### [java.util.ConcurrentModificationException in View.setVisibility](https://stackoverflow.com/questions/10988671/java-util-concurrentmodificationexception-in-view-setvisibility)
+### [Android 开发小工具之：Custom Tabs](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0914/3451.html)
+### [2017 上半年我整理的好文章（上）（98 篇）](https://juejin.im/entry/595b9c31f265da6c232876b7)
+### [牛客网-专业IT笔试面试备考平台](https://www.nowcoder.com/)
+### [The Android Arsenal](https://android-arsenal.com/ " A categorized directory of libraries and tools for Android")
+### [Android ORM 框架之 greenDAO 使用心得](http://www.open-open.com/lib/view/open1438065400878.html)
+### [ Java 自带的加密类MessageDigest类（加密MD5和SHA）](http://blog.csdn.net/xiaokui_wingfly/article/details/38045871?utm_source=tuicool&utm_medium=referral)
+### [ React Native 开发指南](https://f8-app.liaohuqiu.net/)
+### [Android笔试经典的18道编程题 ](http://www.apkbus.com/thread-266278-1-1.html)
+### [如何配置android的adb环境变量](https://jingyan.baidu.com/article/17bd8e52f514d985ab2bb800.html)
+### [开发者福利：史上最全Android 开发和安全系列工具](https://zhuanlan.zhihu.com/p/25261296?utm_source=com.daimajia.gold&utm_medium=social)
+### [RxJava 2.0有什么不同(译)](http://blog.csdn.net/qq_35064774/article/details/53045298)
+### [ishadowx](https://global.ishadowx.net/)
+### [JSR 340: Java Servlet 3.1 Specification《Java Servlet 3.1 规范》](https://waylau.gitbooks.io/servlet-3-1-specification/)
+### [Android微信自动回复功能](http://www.apkbus.com/home.php?mod=space&uid=705730&do=blog&id=62605)
+### [Android Studio 小技巧/快捷键 合集](https://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
+### [ 使用 gradle 在编译时动态设置 Android resValue / BuildConfig / Manifes中<meta-data>变量的值](http://blog.csdn.net/xx326664162/article/details/49247815)
+### [Git 常用命令详解（二）](http://www.oschina.net/question/565065_86025)
+### [最新最全的 Android 开源项目合集](https://juejin.im/entry/5908235861ff4b0066dc924a)
+### [Android 开发中不得不知道的 Tips 集合 (持续更新 ing)](https://juejin.im/post/591847b68d6d8100587929dd)
+### [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/ "代码高亮")
