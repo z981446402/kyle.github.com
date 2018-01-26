@@ -4,7 +4,7 @@ title: "AndroidBlog篇"
 categories: [其它]
 author: Kyle
 ---
-#Blog
+# Blog
 ### [启舰](http://blog.csdn.net/harvic880925/ "自定义view") 
 ### [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/ "自定义view") 
 ### [stormzhang](http://stormzhang.com/) 
@@ -24,7 +24,7 @@ author: Kyle
 ### [腾讯Bugly开发者社区](http://dev.qq.com/)
 ### [Android Blog 周刊](http://www.androidblog.cn/index.php/Index/index/p/1)
 ---
-#文章
+# 文章
 ### [Gradle插件用户指南](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide(Translation)/#1)
 ### [OKHttp源码解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0326/2643.html)
 ### [Google推荐的图片加载库Glide介绍](http://blog.csdn.net/theone10211024/article/details/45557859)
