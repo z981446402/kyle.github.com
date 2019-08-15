@@ -9,23 +9,9 @@ author: Kyle
 - [文章](#文章)
 
 # <span id="blog">Blog</span>
-### [启舰](http://blog.csdn.net/harvic880925/ "自定义view") 
-### [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex/ "自定义view") 
-### [stormzhang](http://stormzhang.com/) 
-### [郭霖的专栏](http://blog.csdn.net/guolin_blog) 
-### [Hencoder](http://hencoder.com/) 
 ### [http://www.wanandroid.com/](http://www.wanandroid.com/) 
 ### [大精-wing的地方酒馆](http://androidwing.net/) 
-### [MrFu Blog](https://mrfu.me/ "Glide详解") 
-### [码农明明桑](https://isming.info/) 
-### [Hankkin的博客](http://hankkin.cn/) 
-### [技术小黑屋](https://droidyue.com/)
 ### [AndroidDevTools](http://www.androiddevtools.cn/)
-### [Trinea](http://www.trinea.cn/)
-### [Werb's Blog](http://werb.github.io/)
-### [codeKK](http://a.codekk.com/)
-### [区长的专栏](http://blog.csdn.net/sbsujjbcy)
-### [Android Blog 周刊](http://www.androidblog.cn/index.php/Index/index/p/1)
 ---
 # <span id="文章">文章</span>
 ### [Gradle插件用户指南](http://rinvay.github.io/android/2015/03/26/Gradle-Plugin-User-Guide(Translation)/#1)
