@@ -6,7 +6,7 @@ author: Kyle
 tags: Android
 ---
 
-###解决Android Menu遮挡标题栏 
+### 解决Android Menu遮挡标题栏
 
     <style name="OverflowMenu" parent="Base.Widget.AppCompat.PopupMenu.Overflow">
         <item name="overlapAnchor">false</item>
