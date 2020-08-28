@@ -4,13 +4,13 @@ version: "1.0"
 
 
 # 站点设置
-title: "Kyle Blog's"
+title: "onceOk Blog's"
 email: 981446402@qq.com
-description: "Kyle 的个人博客"
+description: "onceOk Blog's"
 keywords: "Kyle"
 
 # 用户信息设置
-github_username: Kyle
+github_username: onceOk
 
 # Markdown设置
 kramdown:
@@ -22,7 +22,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: "/kyle.github.com"
+baseurl: "/onceOk.github.com"
 url: "https://z981446402.github.io"
 
 
@@ -38,5 +38,3 @@ sass:
 # duoshuo设置
 duoshuo_shortname: z981446402
 
-# 百度统计设置
-# baidu_analysis:
