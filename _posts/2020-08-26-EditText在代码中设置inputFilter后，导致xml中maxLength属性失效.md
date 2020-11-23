@@ -3,7 +3,7 @@ layout: post
 title: EditText在代码中设置调用setFilters后，导致xml中maxLength属性失效
 published: true
 categories: [开发中遇到的问题]
-author: Kyle
+author: Onceok
 ---
 ## EditText在代码中设置调用setFilters后，导致xml中maxLength属性失效分析 ##
 
